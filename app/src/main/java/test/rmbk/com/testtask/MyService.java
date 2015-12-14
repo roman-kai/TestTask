@@ -15,6 +15,10 @@ public class MyService extends Service {
     private static boolean isRunning = false;
     private final String TAG = "MyService";
 
+    /**
+     * CHANGE
+     */
+
     @Override
     public void onCreate() {
         super.onCreate();
