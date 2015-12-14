@@ -19,6 +19,10 @@ public class MyService extends Service {
      * CHANGE
      */
 
+    /**
+     * IM MASTER BLASTER
+     */
+
     @Override
     public void onCreate() {
         super.onCreate();
