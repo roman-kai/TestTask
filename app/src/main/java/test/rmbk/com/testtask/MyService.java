@@ -20,7 +20,7 @@ public class MyService extends Service {
      */
 
     /**
-     * IM MASTER BLASTER
+     * IM MASTER-KOL
      */
 
     @Override
