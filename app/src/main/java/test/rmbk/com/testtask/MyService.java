@@ -20,7 +20,7 @@ public class MyService extends Service {
      */
 
     /**
-     * IM MASTER-KOL
+     * IM MASTER-KOL-REDO
      */
 
     @Override
